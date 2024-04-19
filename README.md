@@ -1,8 +1,8 @@
 👋 Hi, I’m @EnjoyerOfSelenium! 👋
 
-I'm currently a chem undegrad student that occasionally models physical phenomena. I'm pretty busy though so this place will probably be quiet for the time being.
+I'm currently a chem undegrad student that occasionally models physical phenomena. I'm pretty busy though so this place will probably be quiet for the time being. Also, I'm still very much a novice in terms of making actual strucutred programs; most of what I have done are just scripts.
 
-Currently I know much of Python (including a good chunk of MatPlotLib, NumPy and , Pandas) along with some basic C# and bash scripting. Eventually, I want to at least experiment with C++, Julia, and Rust.
+Currently I know much of Python (including a good chunk of MatPlotLib, NumPy, and Pandas) along with some basic C# and bash scripting. Eventually, I want to at least experiment with C++, Julia, and Rust.
 
 I keep forgetting Selenium is an actual web dev software. I'm sure it's good! However, my username refers to the chemical element.
 
